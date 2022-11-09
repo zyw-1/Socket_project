@@ -1,2 +1,1 @@
-# Socket_project
-Small chat room
+# Study Vins_mono
